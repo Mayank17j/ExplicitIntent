@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="main_activity">Main activity</string>
+    <string name="next">Next</string>
+    <string name="secondactivity">SecondActivity</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_mobile_no">Enter your Mobile No.</string>
+</resources>
